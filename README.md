@@ -9,3 +9,13 @@ Design qickly and customize responsive mobile-first sites with Bootstrap, the wo
 https://getbootstrap.com/
 <hr>
 Examples: https://expo.getbootstrap.com/
+<hr>
+Alternatives: <br>
+1. Foundation <br>
+2. Zimit <br>
+3. InK <br>
+4. HTML KickStart <br>
+5. KickStrap (based on Bootstrap)<br>
+6. Pure<br>
+7. HTML5 Biulerplate<br>
+8. YUI<br>
