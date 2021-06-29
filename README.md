@@ -5,10 +5,10 @@ Design qickly and customize responsive mobile-first sites with Bootstrap, the wo
 <br>
 <br>
 <hr>
-The most popular HTML, CSS, adn JS framework for developing responsive, mobile first projects on the web:
+* The most popular HTML, CSS, adn JS framework for developing responsive, mobile first projects on the web:
 https://getbootstrap.com/
 <hr>
-Examples: https://expo.getbootstrap.com/
+* Examples: https://expo.getbootstrap.com/
 <hr>
 Alternatives: <br>
 1. Foundation <br>
