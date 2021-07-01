@@ -12,7 +12,7 @@ ___
 - Examples: https://expo.getbootstrap.com/
 ___
 
-###Starter Template:
+### Starter Template:
 ``` git
 <!doctype html>
 <html lang="en">
@@ -42,6 +42,7 @@ ___
   </body>
 </html>
 ```
+Download directly to html file and save (e.g. as bootstrap.html)
 ___
 
 Alternatives: <br>
