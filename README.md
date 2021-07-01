@@ -19,6 +19,7 @@ Alternatives: <br>
 7. HTML5 Biulerplate<br>
 8. YUI<br>
 
+`
 <!doctype html>
 <html lang="en">
   <head>
@@ -46,3 +47,4 @@ Alternatives: <br>
     -->
   </body>
 </html>
+`
