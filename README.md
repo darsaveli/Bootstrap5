@@ -2,12 +2,13 @@
 Design qickly and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 <br>
 <br>
-<hr>
-* The most popular HTML, CSS, adn JS framework for developing responsive, mobile first projects on the web:
+___
+- The most popular HTML, CSS, adn JS framework for developing responsive, mobile first projects on the web:
 https://getbootstrap.com/
-<hr>
-* Examples: https://expo.getbootstrap.com/
-<hr>
+To get started https://getbootstrap.com/docs/5.0/getting-started/introduction/
+___
+- Examples: https://expo.getbootstrap.com/
+___
 Alternatives: <br>
 1. Foundation <br>
 2. Zimit <br>
