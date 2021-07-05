@@ -52,6 +52,28 @@ ___
 ### Grid
 https://getbootstrap.com/docs/5.0/layout/grid/
 
+```git
+<div class="container">
+
+        <h1>Hello, world!</h1>
+   
+            <div class="row">
+
+                <div class="col-sm-4">
+                    Column
+                </div>
+
+                <div class="col-sm-4">
+                    Column
+                </div>
+
+                <div class="col-sm-4">
+                    Column
+                </div>
+
+            </div>
+</div>
+```
 ___
 
 Alternatives: <br>
