@@ -1,5 +1,6 @@
-# Fast and responsive sites with Bootstrap 5
-Design qickly and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
+<h1 align="center"> Fast and responsive sites with <br> Bootstrap 5 </h1>
+
+*Design qickly and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.*
 <br>
 <br>
 ___
@@ -12,7 +13,7 @@ ___
 - Examples: https://expo.getbootstrap.com/
 ___
 
-### Starter Template:
+## Starter Template:
 ``` git
 <!doctype html>
 <html lang="en">
@@ -46,9 +47,9 @@ ___
 Download directly to html file and save (e.g. as bootstrap.html)
 ___
 
-### Usage examples
+## Usage examples
 
-#### Grid
+### Grid
 https://getbootstrap.com/docs/5.0/layout/grid/
 
 ___
