@@ -14,7 +14,7 @@ ___
 ___
 
 ## Starter Template:
-``` git
+```html
 <!doctype html>
 <html lang="en">
   <head>
