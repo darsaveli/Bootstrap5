@@ -42,7 +42,15 @@ ___
   </body>
 </html>
 ```
+
 Download directly to html file and save (e.g. as bootstrap.html)
+___
+
+### Usage examples
+
+##Grid
+https://getbootstrap.com/docs/5.0/layout/grid/
+
 ___
 
 Alternatives: <br>
