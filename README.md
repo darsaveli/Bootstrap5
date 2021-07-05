@@ -13,7 +13,8 @@ ___
 - Examples: https://expo.getbootstrap.com/
 ___
 
-## Starter Template:
+<h2 align="center">Starter Template:</h2>
+
 ```html
 <!doctype html>
 <html lang="en">
@@ -47,7 +48,7 @@ ___
 Download directly to html file and save (e.g. as bootstrap.html)
 ___
 
-## Usage examples
+<h2 align="center"> Usage examples </h2>
 
 ### Grid
 https://getbootstrap.com/docs/5.0/layout/grid/
@@ -76,7 +77,7 @@ https://getbootstrap.com/docs/5.0/layout/grid/
 ```
 ___
 
-Alternatives: <br>
+### Alternatives: <br>
 1. Foundation <br>
 2. Zimit <br>
 3. InK <br>
