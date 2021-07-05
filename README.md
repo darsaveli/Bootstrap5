@@ -77,14 +77,14 @@ https://getbootstrap.com/docs/5.0/layout/grid/
 ```
 ___
 
-### Alternatives: <br>
-1. Foundation <br>
-2. Zimit <br>
-3. InK <br>
-4. HTML KickStart <br>
-5. KickStrap (based on Bootstrap)<br>
-6. Pure<br>
-7. HTML5 Biulerplate<br>
-8. YUI<br>
+### Alternatives:
+1. Foundation 
+2. Zimit 
+3. InK 
+4. HTML KickStart 
+5. KickStrap (based on Bootstrap)
+6. Pure
+7. HTML5 Biulerplate
+8. YUI
 
 
