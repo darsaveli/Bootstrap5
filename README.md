@@ -52,7 +52,7 @@ ___
 ### Grid
 https://getbootstrap.com/docs/5.0/layout/grid/
 
-```git
+```html
 <div class="container">
 
         <h1>Hello, world!</h1>
