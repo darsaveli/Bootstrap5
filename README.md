@@ -50,8 +50,7 @@ ___
 
 <h2 align="center"> Usage examples </h2>
 
-### Grid
-https://getbootstrap.com/docs/5.0/layout/grid/
+> Grid: https://getbootstrap.com/docs/5.0/layout/grid/
 
 ```html
 <div class="container">
@@ -75,6 +74,7 @@ https://getbootstrap.com/docs/5.0/layout/grid/
             </div>
 </div>
 ```
+>Navbar: https://getbootstrap.com/docs/5.0/components/navbar/
 ___
 
 ### Alternatives:
