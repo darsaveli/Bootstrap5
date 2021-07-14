@@ -5,7 +5,7 @@
 <br>
 ___
 
-- The most popular HTML, CSS, adn JS framework for developing responsive, mobile first projects on the web:
+- The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web:
 https://getbootstrap.com/
 To get started https://getbootstrap.com/docs/5.0/getting-started/introduction/
 ___
