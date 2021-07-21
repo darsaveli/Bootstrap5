@@ -74,6 +74,7 @@ ___
 </div>
 ```
 >Navbar: https://getbootstrap.com/docs/5.0/components/navbar/
+>Forms: 
 ___
 
 ### Alternatives:
