@@ -78,6 +78,8 @@ ___
 >Tables: https://getbootstrap.com/docs/5.0/content/tables/
 
 >Forms: https://getbootstrap.com/docs/5.0/forms/overview/
+
+>Components: 
 ___
 
 ### Alternatives:
